@@ -1,0 +1,33 @@
+# ── 密钥：永远不要提交 ──
+.env
+.env.*
+!.env.example
+*.key
+
+# ── Python ──
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# ── 本地数据与产物 ──
+*.sqlite
+*.db
+data/
+output/
+
+# ── 日志与临时文件 ──
+*.log
+tmp/
+
+# ── 工具状态（不属于代码） ──
+.workbuddy/
+.idea/
+*.iml
+
+# ── 系统 ──
+Thumbs.db
+.DS_Store
