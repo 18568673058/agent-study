@@ -27,6 +27,7 @@ tmp/
 .workbuddy/
 .idea/
 *.iml
+code/**/.vscode/
 
 # ── 系统 ──
 Thumbs.db

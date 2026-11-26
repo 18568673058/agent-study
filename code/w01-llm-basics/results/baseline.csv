@@ -1,0 +1,3 @@
+﻿time,provider,model,latency_median_s,latency_all_s,prompt_tokens,completion_tokens,cost_one_cny,cost_1000_cny
+2026-11-25 16:20,百炼,qwen3.8-flash,4.587,3.10/5.47/5.91/3.70,98,378,0.001099,1.099
+2026-11-25 16:20,DeepSeek,deepseek-chat,1.41,1.37/1.77/1.32/1.44,42,105,0.000924,0.924
